@@ -26,12 +26,14 @@ npm run start
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### Screenshots:
+
+<img width="1070" alt="Screenshot 2023-04-02 at 22 29 39" src="https://user-images.githubusercontent.com/54810215/229377461-08c6fb39-a414-4c18-938f-e43f49226bbc.png">
 
 ---
 
