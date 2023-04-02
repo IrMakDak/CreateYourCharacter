@@ -1,0 +1,153 @@
+
+.btn-edit{
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}
+.btn-edit-right{
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+}
+.btn-edit-right::after{
+    content: '\270E';
+    display: block;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    border-radius: 100%;
+}
+.card-body-left{
+    padding: 20px;
+    width: 100%;
+}
+.btn-edit::after{
+    content: '\270E';
+    display: block;
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    border-radius: 100%;
+}
+.char-actions{
+    padding: 10px;
+    position: absolute;
+    right: 0;
+}
+.char-actions span{
+    display: block;
+}
+h3 {
+    color: #000;
+    font-style: italic;
+    display: inline;
+}
+.card-options{
+    color: #000;
+    font-weight: 800;
+    font-size: 18px;
+    display: inline;
+    
+}
+li{
+    list-style: none;
+}
+.columns{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+}
+.ul-skills{
+    margin: 20px 0px;
+}
+.skills-title{
+    text-align: left;
+}
+.button-skills{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.btn-container{
+    position: relative;
+    bottom: 0;
+    right: 0;
+    display: flex;
+}
+
+.collapsible {
+    color: #000000;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    opacity: 0.85;
+    border-radius: 5%;
+  }
+.collapsible:after {
+    content: '\02795';
+    font-size: 13px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+  }
+  .active, .collapsible:hover {
+    background-color: #ccc;
+  }
+  .active:after {
+    content: "\2796";
+  }
+  .content-skills {
+    width: 100%;
+    margin: 20px 0px;
+    display: block;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    
+  }
+  .content-skills  p{
+    cursor: default;
+    display: inline;
+  }
+ 
+  .skill {
+    margin: 10px;
+    cursor: default;
+  }
+  .up-skill-img{
+    width: 30px;
+    height: 30px;
+    display: inline;
+    cursor: pointer;
+    background: green;
+    border-radius: 70%;
+    margin-right: 10px;
+  }
+.skill-level{
+    
+}
+.skills-level-stars::before{
+    content: '\2605';
+    font-size: 20px;
+    color: #aa8d42;
+    width: 30px;
+    height: 30px;
+}
+.card-title{
+    margin-right: 10px;
+}
+
+.hide {
+    display: none !important;
+}

@@ -1,0 +1,82 @@
+{
+  "heroes": [
+    {
+      "id": "e19da5f0-8fc6-43a9-9c2f-0eef841f1164",
+      "name": "gh",
+      "options": {
+        "force": {
+          "paramValue": 567,
+          "skills": {
+            "attack": 43
+          }
+        },
+        "agility": {
+          "paramValue": 5,
+          "skills": {
+            "stealth": 4,
+            "archery": 0
+          }
+        },
+        "intelligence": {
+          "paramValue": 6,
+          "skills": {
+            "learnability": 0,
+            "survival": 0,
+            "medicine": 0
+          }
+        },
+        "charisma": {
+          "paramValue": 7,
+          "skills": {
+            "intimidation": 0,
+            "insight": 0,
+            "appearance": 7,
+            "manipulation": 0
+          }
+        },
+        "lifes": 0,
+        "evasion": 14,
+        "energy": 9
+      }
+    },
+    {
+      "id": "d58576af-b2ea-41de-9c9f-8c10c3290152",
+      "name": "fdfd",
+      "options": {
+        "force": {
+          "paramValue": 0,
+          "skills": {
+            "attack": 0
+          }
+        },
+        "agility": {
+          "paramValue": "08",
+          "skills": {
+            "stealth": 0,
+            "archery": 0
+          }
+        },
+        "intelligence": {
+          "paramValue": 0,
+          "skills": {
+            "learnability": 0,
+            "survival": 0,
+            "medicine": 0
+          }
+        },
+        "charisma": {
+          "paramValue": "09",
+          "skills": {
+            "intimidation": 0,
+            "insight": 0,
+            "appearance": 0,
+            "manipulation": 0
+          }
+        },
+        "lifes": 0,
+        "evasion": 18,
+        "energy": 8
+      }
+    }
+  ]
+}
