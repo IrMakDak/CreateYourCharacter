@@ -1,17 +1,19 @@
 <h1 align="center">
-  Heroes
+  Create Your Character
 </h1>
 
 ---
 
 ### About this project
+
 - 🌱 React + redux used
 
 ---
 
 ### Install
+
 ```
-git clone https://github.com/IrMakDak/Heroes.git
+git clone https://github.com/IrMakDak/CreateYourCharacter.git
 npm i
 npm run start
 ```
@@ -31,11 +33,10 @@ npm run start
 
 ### Screenshots:
 
-<img width="1122" alt="Screenshot 2023-03-20 at 14 02 24" src="https://user-images.githubusercontent.com/54810215/226351928-2dc95f17-2e92-4384-9e30-de9b314c6192.png">
-
 ---
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ir-makedonskaya-ximkd/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+</div>
